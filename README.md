@@ -11,5 +11,5 @@ python sending_message_twilio.py
 <br />
 To run:
 <br />
-python sending_message_selenium.py "This is a test message"
+python sending_message_selenium.py
 <br />
